@@ -1,1 +1,0 @@
-# geocourse_webgis
